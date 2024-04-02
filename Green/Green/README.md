@@ -1,4 +1,4 @@
-![Cover Image](media/cover.png)
+![Cover Image](cover.png)
 
 ## Run Locally
 git clone https://github.com/DebapriyaJha/Plant-disease-detection--Minor-Project 
