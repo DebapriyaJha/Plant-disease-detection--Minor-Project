@@ -43,14 +43,23 @@
    ```
 
 3. _Open the project in VS Code:_
-   Click on the open with vs code button , to make changes to the code using the text editor. Navigate to the Project Directory- cd Plant-disease-detection--Minor-Project
+   Click on the open with vs code button , to make changes to the code using the text editor. Navigate to the Project Directory.
+   
+   ```bash
+   cd Plant-disease-detection--Minor-Project
+   ```
 
+5. _Install Dependencies:_
+   
+    ```bash
+    pip install -r requirements.txt
+   ```
+ 
+7. _Run the Application:_
 
-4. _Install Dependencies:_
-  pip install -r requirements.txt
-
-5. _Run the Application:_
-  python app.py
+    ```bash
+    python app.py
+   ```
 
 <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><b>Contributing
 
