@@ -35,10 +35,6 @@
 1. _Fork the Repository:_
    Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
 
-   ![Screenshot (127)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/164ba1a7-d42e-4e4d-acbd-4bc81cf387d5)
-
-   ![Screenshot (128)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/assets/105973197/21a47905-69ee-448f-a5c0-71ceb3c694d5)
-
 2. _Clone the repository:_
    Clone the forked repository to your local machine using the following command in your terminal.
 
